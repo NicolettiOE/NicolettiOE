@@ -16,7 +16,7 @@
 <div align="center">   
   <a href="https://www.instagram.com/nicoletti_oe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaelaoe.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hhttps://www.linkedin.com/in/rafaela-oliveira-648490301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaela-oliveira-648490301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/1283219072464715931/1286128425257664542/download20240903200625.png?ex=66ecc7ef&is=66eb766f&hm=bf3c453a6d2fa539b951dc8bd1b1e22b7896bcfe759d6dfe116e0ad86a6a18ab&" width="175" height="auto">
 
   </div> 
